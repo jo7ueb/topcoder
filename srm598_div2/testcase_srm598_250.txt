@@ -1,0 +1,10 @@
+Failed system test case
+
+input
+rddrdssrrrrdddxrsxsrddrrrrrdrsxrxrrsdxrxssrsrxsdsx
+
+expected result
+xrsxsdrsxrxsdxrxrsrxsdsx
+
+returned value
+rrxrsxsdrsxrxsdxrxrsrxsdsx
